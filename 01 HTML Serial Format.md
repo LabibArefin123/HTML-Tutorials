@@ -6,3 +6,5 @@ Please follow the format
 3. Attributes
 4. Formatting
 5. Phrase-Tags
+6. Meta Tags
+7. Comments
